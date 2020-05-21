@@ -22,7 +22,11 @@ p{
 }
 
 .logo {
-    padding-top: 30px;
+    padding-top: 40px;
+}
+
+.header {
+    padding-top: 40px;
 }
 
 #first {
@@ -31,6 +35,10 @@ p{
     background-image: url(./images/bg-header-mobile.png);
     background-size: 100%  60%;
     background-repeat: no-repeat;
+}
+
+.Download1 {
+    padding-top: 20px;
 }
 
 
