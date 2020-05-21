@@ -21,9 +21,13 @@ p{
     font-weight: 400;
 }
 
+.logo {
+    padding-top: 30px;
+}
+
 #first {
     text-align: center;
-    padding: 40px;
+    padding: 50px;
     background-image: url(./images/bg-header-mobile.png);
     background-size: 100%  60%;
     background-repeat: no-repeat;
